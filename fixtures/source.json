@@ -1,0 +1,25 @@
+{
+  "title": "宽基 ETF 尾盘成交页的连续采集",
+  "category": "宽基 ETF 行情",
+  "choice": "基金",
+  "revision": "行情版本",
+  "detail_label": "分时成交",
+  "entity": "基金交易日",
+  "fact": "尾盘区段",
+  "items": [
+    {
+      "id": "etf-auction-a",
+      "name": "中证500ETF南方 510500",
+      "group": "甲",
+      "detail": "分时成交甲",
+      "changed_detail": "分时成交修订甲"
+    },
+    {
+      "id": "etf-auction-b",
+      "name": "中证1000ETF南方 512100",
+      "group": "乙",
+      "detail": "分时成交乙",
+      "changed_detail": "分时成交修订乙"
+    }
+  ]
+}
