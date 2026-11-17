@@ -12,14 +12,30 @@
       "name": "中证500ETF南方 510500",
       "group": "甲",
       "detail": "分时成交甲",
-      "changed_detail": "分时成交修订甲"
+      "changed_detail": "分时成交修订甲",
+      "trade_date": "2026-11-17",
+      "market": "SSE",
+      "sections": [
+        "14:45-14:49",
+        "14:50-14:54",
+        "14:55-14:59"
+      ],
+      "closing_state": "待核实"
     },
     {
       "id": "etf-auction-b",
       "name": "中证1000ETF南方 512100",
       "group": "乙",
       "detail": "分时成交乙",
-      "changed_detail": "分时成交修订乙"
+      "changed_detail": "分时成交修订乙",
+      "trade_date": "2026-11-17",
+      "market": "SSE",
+      "sections": [
+        "14:45-14:49",
+        "14:50-14:54",
+        "14:55-14:59"
+      ],
+      "closing_state": "待核实"
     }
   ]
 }
